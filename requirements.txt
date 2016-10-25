@@ -1,0 +1,6 @@
+ipython
+pandas
+requests
+bs4
+watson-developer-cloud
+simplejson
